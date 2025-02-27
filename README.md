@@ -1,6 +1,6 @@
 # CU COMS3157 RESOURCES (w/ Brian Borowski)
 ## Midterm 1:
-# For learning C:
+### For learning C:
 Highly recommend watching lectures 1-6 from Stanford CS107 Programming Paradigms 
 [https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PL9D558D49CA734A02&index=1&ab_channel=Stanford](url)
 
