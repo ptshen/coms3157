@@ -7,7 +7,7 @@ Highly recommend watching lectures 1-6 from Stanford CS107 Programming Paradigms
 [https://www.eskimo.com/~scs/cclass/notes/top.html](url)
 
 previous midterm content taught by jae 
-[https://github.com/cs3157/recitations/tree/master/midsemester-review-1-practice](url)
+[https://github.com/cs3157/recitations?tab=readme-ov-file](url)
 
 ## Midterm 2: 
 Stanford CS 110 lectures 
