@@ -10,5 +10,8 @@ previous midterm content taught by jae
 [https://github.com/cs3157/recitations?tab=readme-ov-file](url)
 
 ## Midterm 2: 
-Stanford CS 110 lectures 
+Stanford CS 110 lectures 4, 5, 6
 [https://www.youtube.com/watch?v=_LFGjZ0Sc6I&list=PLu77E6J7s6Ko3Ft4XcOX1yKW6iX3eEFqS&index=1&ab_channel=ChrisGregg](url)
+
+Berkeley CS162 Lectures 3, 4, 5
+[https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC](url)
