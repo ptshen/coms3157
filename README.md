@@ -15,3 +15,8 @@ Stanford CS 110 lectures 4, 5, 6
 
 Berkeley CS162 Lectures 3, 4, 5
 [https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC](url)
+
+## Midterm 3:
+
+Princeton COS217 Lecture 24: 
+[https://www.youtube.com/watch?v=ioH4o9YNFvM](url)
