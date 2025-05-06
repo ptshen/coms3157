@@ -9,4 +9,6 @@ STAT 4203: Probability Theory (Fall 2025)
 
 CSOR 4231: Analysis of Algorithms 
 
+MATH 2015: Linear Algebra and Probability
+
 
