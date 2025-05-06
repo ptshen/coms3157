@@ -1,4 +1,4 @@
-# CU COMS3157 RESOURCES (w/ Brian Borowski)
+# COMS3157 RESOURCES (w/ Brian Borowski)
 ## Midterm 1:
 ### For learning C:
 Highly recommend watching lectures 1-6 from Stanford CS107 Programming Paradigms 
@@ -20,3 +20,12 @@ Berkeley CS162 Lectures 3, 4, 5
 
 Princeton COS217 Lecture 24: 
 [https://www.youtube.com/watch?v=ioH4o9YNFvM](url)
+
+Endianness:
+https://www.youtube.com/watch?v=LxvFb63OOs8&pp=ygUKZW5kaWFubmVzcw%3D%3D
+
+select() method for concurrent sockets:
+https://www.youtube.com/watch?v=Y6pFtgRdUts&t=569s&pp=ygUGc2VsZWN0
+
+
+
