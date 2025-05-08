@@ -1,5 +1,5 @@
 # Columbia University Course Resources
-_These are notes and homework problems that I have compiled in this repo_
+_This repo contains online resources as well as my own for self stuyding purposes_
 
 COMS 3157: Advanced Programming (Spring 2025, Brian Borowski) 
 
